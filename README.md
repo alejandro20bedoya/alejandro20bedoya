@@ -1,5 +1,4 @@
-# 💫 About Me:
-acerca de mi <br><br>mi perfil de github - Alejandro Bedoya <br><br>
+# acerca de mi <br><br>mi perfil de github - Alejandro Bedoya <br><br>
 
 
 ## 🌐 Socials:
